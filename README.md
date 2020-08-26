@@ -1,0 +1,1 @@
+I am currently doing the Next.js tutorial: [Learn Next.js](https://nextjs.org/learn).
